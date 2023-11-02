@@ -1,5 +1,5 @@
 # Integer variables
-num1 = 10
+num1 = 12
 num2 = 5
 
 # Integer Division
